@@ -1,14 +1,14 @@
-Overview and Documentation
+### Overview and Documentation
 
 The Student Grade Tracker is a simple GUI-based application built using Python's `tkinter` library. It allows users to input grades for eight subjects, calculates the overall grade, and converts that score into a corresponding letter grade and GPA (Grade Point Average) based on a predefined scale. The application also provides validation to ensure that grades are entered correctly (as numeric values between 0 and 100).
 
-Features
+### Features
 - Input Validation: Ensures the grades are numeric values between 0 and 100. Displays an error message if input is invalid.
 - Grade Calculation: Computes the overall grade from all subject scores entered by the user.
 - Letter Grade & GPA Calculation: Converts the overall grade into both a letter grade and GPA using a predefined grading and GPA scale.
 - User-friendly Interface: Built using `tkinter` for a simple and intuitive user experience.
   
-Getting Started
+### Getting Started
 
 Prerequisites:
 - Python 3.x
@@ -44,7 +44,7 @@ Running the Application:
 | 35 - 39       | D            | 3.0  |
 | Below 35      | F            | 0.0  |
 
-Future Improvements
+### Future Improvements
 - Add options to customize the number of subjects.
 - Store and retrieve past grades for review.
 - Introduce weighted grades for different subjects.
