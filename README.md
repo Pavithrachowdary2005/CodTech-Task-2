@@ -48,4 +48,5 @@ Running the Application:
 - Add options to customize the number of subjects.
 - Store and retrieve past grades for review.
 - Introduce weighted grades for different subjects.
-  
+![ts 2 p](https://github.com/user-attachments/assets/c5526088-93cd-4674-9614-d2f299dd8a1d)
+![ts 2 p](https://github.com/user-attachments/assets/c5526088-93cd-4674-9614-d2f299dd8a1d)  
